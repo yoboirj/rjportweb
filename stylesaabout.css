@@ -52,7 +52,14 @@ body {
   opacity: 0;
   animation: fadeInNavbar 1s ease-in-out forwards;
 }
-
+.aboutme a {
+  color: black;
+  padding: 14px 20px;
+  font-weight: 200;
+  font-family: "Krona", sans-serif;
+  text-decoration: none;
+  display: inline-block;
+}
 .menu a {
   display: flex;
   align-items: center;
