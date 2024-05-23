@@ -38,9 +38,6 @@ body {
 .abtm {
   color: black;
   font-family: "Krona", sans-serif;
-  align-items: center;
-  display: flex;
-  justify-content: center;
   padding-left: 50px;
 }
 
