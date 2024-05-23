@@ -58,7 +58,7 @@ body {
   font-weight: 200;
   font-family: "Krona", sans-serif;
   text-decoration: none;
-  display: inline-block;
+  display: flex;
 }
 .menu a {
   display: flex;
