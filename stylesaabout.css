@@ -29,6 +29,7 @@ body {
 }
 
 .aboutme {
+  color: black;
   padding-top: 5px;
   width: 100%;
   display: flex;
