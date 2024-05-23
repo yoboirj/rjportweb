@@ -53,7 +53,10 @@ section {
   font-size: 38px;
   color: black;
 }
-
+.arrowder {
+  font-size: 38px;
+  color: black;
+}
 p {
   font-size: 3vh;
   font-family: "Poppins", sans-serif;
