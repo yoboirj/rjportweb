@@ -24,28 +24,32 @@ body {
   padding: 0;
 }
 .portfolio-heading {
-  color: black;
-  padding: 20px 20px;
-  font-weight: 200;
-  font-family: "Krona", sans-serif;
-  text-decoration: none;
-  display: flex;
+  color: white;
+  padding-top: 5px;
+  height: 20vh;
   width: 100%;
-  align-items: center;
-  justify-content: space-between;
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.btns a {
+.menu a {
+  color: black;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.btns a ion-icon {
+.menu a ion-icon {
   font-size: 38px;
   color: black;
 }
-
+.port {
+  color: black;
+  font-family: "Krona", sans-serif;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
 h1 {
   font-size: "Bebas", sans-serif;
 }
