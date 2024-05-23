@@ -63,8 +63,12 @@ body {
   font-size: 38px;
   color: black;
 }
+.arrowder {
+  font-size: 38px;
+  color: black;
+}
 
-.homecontainer {
+.arrowder .homecontainer {
   display: flex;
   align-items: center;
   justify-content: center;
