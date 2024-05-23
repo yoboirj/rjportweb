@@ -33,8 +33,6 @@ body {
   width: 100%;
   display: flex;
   justify-content: space-evenly;
-  opacity: 0;
-  animation: fadeInNavbar 1s ease-in-out forwards;
 }
 
 .menu a {
