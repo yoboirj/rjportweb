@@ -1,0 +1,86 @@
+@font-face {
+  font-family: Bebas;
+  src: url(BebasNeue-Regular.otf);
+}
+@font-face {
+  font-family: Krona;
+  src: url(KronaOne-Regular.ttf);
+}
+@font-face {
+  font-family: Poppins;
+  src: url(Poppins-Medium.otf);
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #efe1d1;
+  margin: 0;
+  padding: 0;
+}
+section {
+  padding: 20px;
+}
+.serv {
+  color: black;
+  font-family: "Krona", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.portfolio-heading {
+  color: black;
+  padding: 20px 20px;
+  font-weight: 200;
+  font-family: "Krona", sans-serif;
+  text-decoration: none;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btns a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btns a ion-icon {
+  font-size: 38px;
+  color: black;
+}
+
+p {
+  font-size: 3vh;
+  font-family: "Poppins", sans-serif;
+  color: #331d2c;
+  margin-bottom: 20px;
+}
+
+.ui,
+.video {
+  margin-bottom: 30px;
+}
+
+.buttons {
+  display: inline-block;
+  color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin: 0 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+.buttons ion-icon {
+  font-size: 38px;
+  color: black;
+}
+.buttons a {
+  padding-right: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
