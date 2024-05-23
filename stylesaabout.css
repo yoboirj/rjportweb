@@ -44,7 +44,6 @@ body {
 }
 
 .aboutme {
-  color: white;
   padding-top: 5px;
   width: 100%;
   display: flex;
@@ -58,7 +57,7 @@ body {
   font-weight: 200;
   font-family: "Krona", sans-serif;
   text-decoration: none;
-  display: flex;
+
 }
 .menu a {
   display: flex;
