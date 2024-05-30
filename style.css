@@ -45,7 +45,23 @@ body {
 .menu-toggle {
   display: none;
 }
-
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.menu ul li {
+  float: left;
+}
+.menu ul li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: space-evenly;
+}
 .hamburger {
   width: 30px;
   height: 4px;
