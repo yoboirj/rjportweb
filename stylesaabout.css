@@ -36,6 +36,7 @@
     background-color: #efe1d1;
   }
   .abtm {
+    margin-top: 5vh;
     color: black;
     font-family: "Krona", sans-serif;
     align-items: center;
@@ -67,7 +68,23 @@
     font-size: 38px;
     color: black;
   }
-  
+  .navigator {
+    padding-top: 5vh;
+    color: black;
+    font-family: "Krona", sans-serif;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+  }
+  .line {
+    border-top: 4px solid black;
+    margin: 0 auto;
+    width: 50%;
+    box-shadow: 9px 5px 7px rgba(0, 0, 0, 0.5);
+    opacity: 0;
+  }
   .arrowder .homecontainer {
     display: flex;
     align-items: center;
